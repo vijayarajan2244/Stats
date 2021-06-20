@@ -1,0 +1,55 @@
+.card{
+    margin-top: 130px;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.items{
+    justify-content: space-between;
+    margin-top: 40px;
+    margin-right: 210px;
+    margin-left: 25px;
+    
+}
+.font{
+    font-size: small;
+    margin-top: 5px;
+    color: rgb(153, 153, 153);
+}
+.content{
+    color:rgb(214, 205, 205);
+    padding-inline-start: 25px;
+    margin-top: 15px;
+}
+.highlights{
+    color: rgb(134, 112, 255);
+    font-weight: bold;
+}
+
+.pic{
+
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    right: -17px;
+    width: 20%;
+   
+}
+
+
+
+    
+
+    
+    
+
+
+
+
+
+
+
+
+
